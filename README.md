@@ -1,4 +1,4 @@
-# README - Jogo da Velha em MIPS Assembly
+# README - Jogo da Velha em MIPS Assembly ❌ ⭕
 
 Este projeto implementa um jogo da velha (Tic-Tac-Toe) em Assembly para a arquitetura MIPS. O jogo foi desenvolvido como parte da disciplina Arquitetura de Computadores II, com o objetivo de aprimorar o entendimento sobre o funcionamento da arquitetura MIPS e praticar a programação de baixo nível.
 
